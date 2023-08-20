@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="147.7384mm"
+   height="98.429832mm"
+   viewBox="0 0 147.73841 98.429834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="103"
+     inkscape:cy="269.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27784">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop27780" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop27782" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24273">
+      <stop
+         style="stop-color:#9400d3;stop-opacity:0.94117647"
+         offset="0"
+         id="stop24259" />
+      <stop
+         style="stop-color:#4b0082;stop-opacity:0.96470588"
+         offset="0.15654129"
+         id="stop24261" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.96862745"
+         offset="0.29639256"
+         id="stop24263" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.44983998"
+         id="stop24265" />
+      <stop
+         style="stop-color:#fff00f;stop-opacity:0.98823529"
+         offset="0.62902158"
+         id="stop24267" />
+      <stop
+         style="stop-color:#ff7f00;stop-opacity:0.95294118"
+         offset="0.80949694"
+         id="stop24269" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop24271" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient16520">
+      <stop
+         style="stop-color:#010101;stop-opacity:1;"
+         offset="0"
+         id="stop16516" />
+      <stop
+         style="stop-color:#010101;stop-opacity:0;"
+         offset="1"
+         id="stop16518" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12897">
+      <stop
+         style="stop-color:#010101;stop-opacity:1;"
+         offset="0"
+         id="stop12893" />
+      <stop
+         style="stop-color:#010101;stop-opacity:0;"
+         offset="1"
+         id="stop12895" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Rainbow">
+      <stop
+         style="stop-color:#9400d3;stop-opacity:0.94117647"
+         offset="0"
+         id="stop65557" />
+      <stop
+         style="stop-color:#4b0082;stop-opacity:0.96470588"
+         offset="0.15654129"
+         id="stop66731" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.96862745"
+         offset="0.29639256"
+         id="stop66925" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.47917098"
+         id="stop66991" />
+      <stop
+         style="stop-color:#fff00f;stop-opacity:0.98823529"
+         offset="0.63922077"
+         id="stop66993" />
+      <stop
+         style="stop-color:#ff7f00;stop-opacity:0.95294118"
+         offset="0.80722402"
+         id="stop67059" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop65555" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient56751"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop56749" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="59.712095,63.591607"
+       end_point="59.712095,84.056012"
+       center_point="59.712095,73.823809"
+       id="path-effect45940"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24273"
+       id="linearGradient75403"
+       gradientUnits="userSpaceOnUse"
+       x1="40.923626"
+       y1="66.126122"
+       x2="40.870289"
+       y2="78.849686"
+       gradientTransform="matrix(1.8894768,0,0,1.8894768,-137.28698,-109.57479)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient75405"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3255969,1.3464455,-1.3464455,-1.3255969,148.35614,49.022402)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient11602"
+       x1="60.44754"
+       y1="34.446709"
+       x2="67.393852"
+       y2="34.446709"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5883814,0,0,1.5883814,-82.067945,-24.914868)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12897"
+       id="linearGradient12899"
+       x1="60.44754"
+       y1="34.446709"
+       x2="67.393852"
+       y2="34.446709"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient3599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5735613,0.21647219,-0.21647219,1.5735613,-43.871937,-98.46812)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16520"
+       id="linearGradient16522"
+       x1="60.44754"
+       y1="34.446709"
+       x2="67.393852"
+       y2="34.446709"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24273"
+       id="linearGradient24792"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8894768,0,0,1.8894768,-137.30224,-61.175109)"
+       x1="58.449482"
+       y1="60.828762"
+       x2="25.869345"
+       y2="78.057556" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient24794"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3255969,1.3464455,-1.3464455,-1.3255969,148.34088,97.422081)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27784"
+       id="linearGradient27786"
+       x1="-91.957692"
+       y1="30.429625"
+       x2="-33.119964"
+       y2="30.429625"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient29023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5883814,0,0,1.5883814,-82.806346,24.299748)"
+       x1="60.44754"
+       y1="34.446709"
+       x2="67.393852"
+       y2="34.446709" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient29025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5735613,0.21647219,-0.21647219,1.5735613,-44.610338,-49.253504)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(95.475408,-6.4713867)">
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path10129"
+       cx="25.912992"
+       cy="29.48802"
+       rx="19.071823"
+       ry="19.707203"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(95.475408,-6.4713867)">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="22.67734"
+       y="103.05389"
+       id="text17008"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.67734"
+         y="103.05389"
+         id="tspan17694" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="61.631157"
+       y="102.13947"
+       id="text23340"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Yellowtail;-inkscape-font-specification:'Yellowtail, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="61.631157"
+         y="102.13947"
+         id="tspan23342" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.9969px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient75403);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-91.674271"
+       y="26.57226"
+       id="text1596-0"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         sodipodi:role="line"
+         id="tspan1594-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient75403);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-91.674271"
+         y="26.57226">Pixel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient75403);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan8220-3"
+         x="-91.674271"
+         y="44.065475"><tspan
+   style="letter-spacing:-3.49946px;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient75403);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan9298-7"> </tspan>Spork</tspan></text>
+    <path
+       id="path37245-4"
+       style="fill:url(#linearGradient75405);fill-opacity:1;stroke:#ffffff;stroke-width:0.4953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m -12.264067,39.969197 c 0,0 -0.872598,-5.781631 -3.298902,-7.690038 -1.883132,-1.481295 -3.923243,-0.925721 -6.756988,-1.179909 -3.416131,-0.306429 -10.550759,-10.297183 -13.566398,-13.42337 -2.213494,-2.294677 -4.786903,-2.394747 -5.613931,-2.28509 -0.09674,0.82864 0.116468,3.235571 2.371717,5.489219 4.198778,4.195793 13.349082,9.936209 13.70877,13.347148 0.298375,2.829431 -0.299903,4.974444 1.210522,6.834296 1.946027,2.396229 8.026241,2.977426 8.026241,2.977426 l -1.128738,-2.852632 c 1.356952,0.249016 1.317145,0.237602 2.810281,0.593509 -0.318855,-1.621481 -0.33675,-1.5989 -0.615862,-2.815913 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.9969px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient24792);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-91.689537"
+       y="74.971947"
+       id="text1596-0-4"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Dark.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         sodipodi:role="line"
+         id="tspan1594-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient24792);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-91.689537"
+         y="74.971947">Pixel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient24792);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan8220-3-0"
+         x="-91.689537"
+         y="92.465164"><tspan
+   style="letter-spacing:-3.49946px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient24792);stroke-width:0.566843;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan9298-7-6"> </tspan>Spork</tspan></text>
+    <path
+       id="path37245-4-9"
+       style="fill:url(#linearGradient24794);fill-opacity:1;stroke:#180000;stroke-width:0.4953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -12.279332,88.368878 c 0,0 -0.872598,-5.781631 -3.298902,-7.690038 -1.883132,-1.481295 -3.923243,-0.925721 -6.756988,-1.179909 -3.416131,-0.306429 -10.550759,-10.297183 -13.566398,-13.42337 -2.213494,-2.294677 -4.786903,-2.394747 -5.613931,-2.28509 -0.09674,0.82864 0.116468,3.235571 2.371717,5.489219 4.198778,4.195793 13.349082,9.936209 13.70877,13.347148 0.298375,2.829431 -0.299903,4.974444 1.210522,6.834296 1.946027,2.396229 8.026241,2.977426 8.026241,2.977426 l -1.128738,-2.852632 c 1.356952,0.249016 1.317145,0.237602 2.810281,0.593509 -0.318855,-1.621481 -0.33675,-1.5989 -0.615862,-2.815913 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Dark.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="13.864668"
+       y="28.380884"
+       id="text1596-0-2"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         sodipodi:role="line"
+         id="tspan1594-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="13.864668"
+         y="28.380884">P</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:role="line"
+         id="tspan8220-3-9"
+         x="13.864668"
+         y="43.086472">S</tspan></text>
+    <path
+       id="path37245-4-7"
+       style="mix-blend-mode:normal;fill:url(#linearGradient3599);fill-opacity:1;stroke:#000000;stroke-width:0.416372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.759763,14.313591 c 0,0 -3.457268,3.493991 -3.523692,6.088132 -0.05166,2.013456 1.348148,3.108907 2.601182,5.146141 1.510557,2.455925 -1.635494,12.285103 -2.226282,15.888449 -0.433669,2.644893 0.792364,4.42924 1.281943,4.931404 0.606989,-0.351311 2.121696,-1.704766 2.506731,-4.357174 0.716848,-4.938198 -0.0143,-13.989272 2.103363,-15.94607 1.756595,-1.623204 3.502688,-2.298205 3.996738,-4.250793 0.636535,-2.515707 -2.027915,-6.904886 -2.027915,-6.904886 l -1.354866,2.194391 c -0.514246,-1.039522 -0.50193,-1.006962 -1.012596,-2.191976 -0.932343,1.029855 -0.908133,1.030563 -1.587909,1.830343 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.85636;stroke-opacity:1"
+       id="path10129-3"
+       cx="25.174591"
+       cy="78.702629"
+       rx="19.071823"
+       ry="19.707203"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="13.126266"
+       y="77.595497"
+       id="text1596-0-2-3"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         sodipodi:role="line"
+         id="tspan1594-3-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="13.126266"
+         y="77.595497">P</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:role="line"
+         id="tspan8220-3-9-6"
+         x="13.126266"
+         y="92.301086">S</tspan></text>
+    <path
+       id="path37245-4-7-3"
+       style="mix-blend-mode:normal;fill:url(#linearGradient29025);fill-opacity:1;stroke:#000000;stroke-width:0.416372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m 30.021362,63.528207 c 0,0 -3.457268,3.493991 -3.523692,6.088132 -0.05166,2.013456 1.348148,3.108907 2.601182,5.146141 1.510557,2.455925 -1.635494,12.285103 -2.226282,15.888449 -0.433669,2.644893 0.792364,4.42924 1.281943,4.931404 0.606989,-0.351311 2.121696,-1.704766 2.506731,-4.357174 0.716848,-4.938198 -0.0143,-13.989272 2.103363,-15.94607 1.756595,-1.623204 3.502688,-2.298205 3.996738,-4.250793 C 37.39788,68.512589 34.73343,64.12341 34.73343,64.12341 l -1.354866,2.194391 c -0.514246,-1.039522 -0.50193,-1.006962 -1.012596,-2.191976 -0.932343,1.029855 -0.908133,1.030563 -1.587909,1.830343 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+  </g>
+</svg>
