@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="147.7384mm"
-   height="98.429832mm"
-   viewBox="0 0 147.73841 98.429834"
+   width="137.45778mm"
+   height="136.7899mm"
+   viewBox="0 0 137.45779 136.7899"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="103"
-     inkscape:cy="269.5"
+     inkscape:cx="7.5"
+     inkscape:cy="443.5"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -35,6 +35,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14632">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop14628" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop14630" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient27784">
@@ -180,16 +192,6 @@
        spreadMethod="pad" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#Rainbow"
-       id="linearGradient11602"
-       x1="60.44754"
-       y1="34.446709"
-       x2="67.393852"
-       y2="34.446709"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5883814,0,0,1.5883814,-82.067945,-24.914868)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient12897"
        id="linearGradient12899"
        x1="60.44754"
@@ -242,21 +244,11 @@
        inkscape:collect="always"
        xlink:href="#linearGradient27784"
        id="linearGradient27786"
-       x1="-91.957692"
+       x1="-91.957695"
        y1="30.429625"
-       x2="-33.119964"
+       x2="-33.119965"
        y2="30.429625"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Rainbow"
-       id="linearGradient29023"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5883814,0,0,1.5883814,-82.806346,24.299748)"
-       x1="60.44754"
-       y1="34.446709"
-       x2="67.393852"
-       y2="34.446709" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#Rainbow"
@@ -268,14 +260,81 @@
        x2="58.764214"
        y2="64.650002"
        spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient1086"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3255969,1.3464455,-1.3464455,-1.3255969,148.75927,145.18499)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient13892"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5735613,0.21647219,-0.21647219,1.5735613,-45.529813,-3.081147)"
+       x1="48.363186"
+       y1="74.96608"
+       x2="58.764214"
+       y2="64.650002"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient14330"
+       x1="-162.07249"
+       y1="30.730362"
+       x2="-151.03909"
+       y2="30.730362"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient14536"
+       x1="6.7528443"
+       y1="85.842987"
+       x2="24.147243"
+       y2="71.156517"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14632"
+       id="linearGradient14634"
+       x1="6.7528443"
+       y1="85.842987"
+       x2="24.147243"
+       y2="71.156517"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient26048"
+       x1="-91.554649"
+       y1="126.59223"
+       x2="-32.716763"
+       y2="126.59223"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Rainbow"
+       id="linearGradient26425"
+       x1="-91.554649"
+       y1="126.59223"
+       x2="-32.716763"
+       y2="126.59223"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(95.475408,-6.4713867)">
+     transform="translate(91.972959,-9.280817)">
     <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path10129"
        cx="25.912992"
        cy="29.48802"
@@ -289,7 +348,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(95.475408,-6.4713867)">
+     transform="translate(91.972959,-9.280817)">
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -372,19 +431,48 @@
        inkscape:export-ydpi="254" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:19.9969px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26425);fill-opacity:1;stroke:#000000;stroke-width:0.567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-91.271149"
+       y="122.73486"
+       id="text1596-0-4-3"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Neutral.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         id="tspan1594-3-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient26425);fill-opacity:1;stroke:#000000;stroke-width:0.567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-91.271149"
+         y="122.73486"
+         sodipodi:role="line">Pixel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9969px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient26425);fill-opacity:1;stroke:#000000;stroke-width:0.567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan8220-3-0-0"
+         x="-91.271149"
+         y="140.22807"
+         sodipodi:role="line"><tspan
+   style="letter-spacing:-3.49946px;fill:url(#linearGradient26425);fill-opacity:1;stroke:#000000;stroke-width:0.567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan9298-7-6-0"> </tspan>Spork</tspan></text>
+    <path
+       id="path37245-4-9-6"
+       style="fill:url(#linearGradient1086);fill-opacity:1;stroke:#000000;stroke-width:0.4953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -11.86094,136.13179 c 0,0 -0.8726,-5.78163 -3.2989,-7.69004 -1.88314,-1.4813 -3.92325,-0.92572 -6.75699,-1.17991 -3.41613,-0.30643 -10.55076,-10.29718 -13.5664,-13.42337 -2.21349,-2.29468 -4.7869,-2.39475 -5.61393,-2.28509 -0.0967,0.82864 0.11647,3.23557 2.37172,5.48922 4.19877,4.19579 13.34908,9.93621 13.70877,13.34715 0.29837,2.82943 -0.29991,4.97444 1.21052,6.83429 1.94603,2.39623 8.02624,2.97743 8.02624,2.97743 l -1.12874,-2.85263 c 1.35695,0.24901 1.31715,0.2376 2.81028,0.59351 -0.31885,-1.62149 -0.33675,-1.5989 -0.61586,-2.81592 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Neutral.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        x="13.864668"
        y="28.380884"
        id="text1596-0-2"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254"><tspan
          sodipodi:role="line"
          id="tspan1594-3-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
          x="13.864668"
          y="28.380884">P</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:url(#linearGradient11602);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
          sodipodi:role="line"
          id="tspan8220-3-9"
          x="13.864668"
@@ -394,7 +482,7 @@
        style="mix-blend-mode:normal;fill:url(#linearGradient3599);fill-opacity:1;stroke:#000000;stroke-width:0.416372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 30.759763,14.313591 c 0,0 -3.457268,3.493991 -3.523692,6.088132 -0.05166,2.013456 1.348148,3.108907 2.601182,5.146141 1.510557,2.455925 -1.635494,12.285103 -2.226282,15.888449 -0.433669,2.644893 0.792364,4.42924 1.281943,4.931404 0.606989,-0.351311 2.121696,-1.704766 2.506731,-4.357174 0.716848,-4.938198 -0.0143,-13.989272 2.103363,-15.94607 1.756595,-1.623204 3.502688,-2.298205 3.996738,-4.250793 0.636535,-2.515707 -2.027915,-6.904886 -2.027915,-6.904886 l -1.354866,2.194391 c -0.514246,-1.039522 -0.50193,-1.006962 -1.012596,-2.191976 -0.932343,1.029855 -0.908133,1.030563 -1.587909,1.830343 z"
        sodipodi:nodetypes="cssscsssccccc"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254" />
     <ellipse
@@ -402,26 +490,26 @@
        id="path10129-3"
        cx="25.174591"
        cy="78.702629"
-       rx="19.071823"
+       rx="19.072001"
        ry="19.707203"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        x="13.126266"
        y="77.595497"
        id="text1596-0-2-3"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254"><tspan
          sodipodi:role="line"
          id="tspan1594-3-9-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
          x="13.126266"
          y="77.595497">P</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:url(#linearGradient29023);stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
          sodipodi:role="line"
          id="tspan8220-3-9-6"
          x="13.126266"
@@ -431,7 +519,44 @@
        style="mix-blend-mode:normal;fill:url(#linearGradient29025);fill-opacity:1;stroke:#000000;stroke-width:0.416372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
        d="m 30.021362,63.528207 c 0,0 -3.457268,3.493991 -3.523692,6.088132 -0.05166,2.013456 1.348148,3.108907 2.601182,5.146141 1.510557,2.455925 -1.635494,12.285103 -2.226282,15.888449 -0.433669,2.644893 0.792364,4.42924 1.281943,4.931404 0.606989,-0.351311 2.121696,-1.704766 2.506731,-4.357174 0.716848,-4.938198 -0.0143,-13.989272 2.103363,-15.94607 1.756595,-1.623204 3.502688,-2.298205 3.996738,-4.250793 C 37.39788,68.512589 34.73343,64.12341 34.73343,64.12341 l -1.354866,2.194391 c -0.514246,-1.039522 -0.50193,-1.006962 -1.012596,-2.191976 -0.932343,1.029855 -0.908133,1.030563 -1.587909,1.830343 z"
        sodipodi:nodetypes="cssscsssccccc"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Dark.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Light.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <ellipse
+       style="fill:#2a2648;fill-opacity:1;stroke:#2a2648;stroke-width:1.85636;stroke-opacity:1"
+       id="path10129-3-6"
+       cx="24.255116"
+       cy="124.87498"
+       rx="19.071823"
+       ry="19.707203"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Neutral.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8103px;line-height:0.8;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.979757;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="12.206791"
+       y="123.76785"
+       id="text1596-0-2-3-5"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Neutral.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254"><tspan
+         sodipodi:role="line"
+         id="tspan1594-3-9-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="12.206791"
+         y="123.76785">P</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8103px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.979757;stroke:#000000;stroke-width:0.476515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:role="line"
+         id="tspan8220-3-9-6-8"
+         x="12.206791"
+         y="138.47343">S</tspan></text>
+    <path
+       id="path37245-4-7-3-9"
+       style="mix-blend-mode:normal;fill:url(#linearGradient13892);fill-opacity:1;stroke:#000000;stroke-width:0.416372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.101887,109.70056 c 0,0 -3.45727,3.49399 -3.52369,6.08814 -0.0517,2.01345 1.34815,3.1089 2.60118,5.14614 1.51056,2.45592 -1.63549,12.2851 -2.22628,15.88845 -0.43367,2.64489 0.79236,4.42924 1.28194,4.9314 0.60699,-0.35131 2.1217,-1.70477 2.50673,-4.35717 0.71685,-4.9382 -0.0143,-13.98928 2.10337,-15.94607 1.75659,-1.62321 3.50269,-2.29821 3.99674,-4.2508 0.63653,-2.5157 -2.02792,-6.90488 -2.02792,-6.90488 l -1.35487,2.19439 c -0.51424,-1.03952 -0.50193,-1.00696 -1.01259,-2.19198 -0.93234,1.02986 -0.90813,1.03056 -1.58791,1.83034 z"
+       sodipodi:nodetypes="cssscsssccccc"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Round For Neutral.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254" />
   </g>
