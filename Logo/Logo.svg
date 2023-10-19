@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="7.5"
-     inkscape:cy="443.5"
+     inkscape:cx="-15.5"
+     inkscape:cy="415.5"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -35,6 +35,38 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26793">
+      <stop
+         style="stop-color:#9400d3;stop-opacity:0.94117647"
+         offset="0"
+         id="stop26779" />
+      <stop
+         style="stop-color:#4b0082;stop-opacity:0.96470588"
+         offset="0.17095064"
+         id="stop26781" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.96862745"
+         offset="0.22718692"
+         id="stop26783" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.3380971"
+         id="stop26785" />
+      <stop
+         style="stop-color:#fff00f;stop-opacity:0.98823529"
+         offset="0.59764951"
+         id="stop26787" />
+      <stop
+         style="stop-color:#ff7f00;stop-opacity:0.95294118"
+         offset="0.80722402"
+         id="stop26789" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop26791" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient14632">
@@ -320,12 +352,12 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#Rainbow"
+       xlink:href="#linearGradient26793"
        id="linearGradient26425"
-       x1="-91.554649"
-       y1="126.59223"
-       x2="-32.716763"
-       y2="126.59223"
+       x1="-34.586151"
+       y1="107.97691"
+       x2="-84.540329"
+       y2="130.05336"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -435,7 +467,7 @@
        x="-91.271149"
        y="122.73486"
        id="text1596-0-4-3"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Neutral.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Rainbow.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254"><tspan
          id="tspan1594-3-0-1"
@@ -455,7 +487,7 @@
        style="fill:url(#linearGradient1086);fill-opacity:1;stroke:#000000;stroke-width:0.4953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -11.86094,136.13179 c 0,0 -0.8726,-5.78163 -3.2989,-7.69004 -1.88314,-1.4813 -3.92325,-0.92572 -6.75699,-1.17991 -3.41613,-0.30643 -10.55076,-10.29718 -13.5664,-13.42337 -2.21349,-2.29468 -4.7869,-2.39475 -5.61393,-2.28509 -0.0967,0.82864 0.11647,3.23557 2.37172,5.48922 4.19877,4.19579 13.34908,9.93621 13.70877,13.34715 0.29837,2.82943 -0.29991,4.97444 1.21052,6.83429 1.94603,2.39623 8.02624,2.97743 8.02624,2.97743 l -1.12874,-2.85263 c 1.35695,0.24901 1.31715,0.2376 2.81028,0.59351 -0.31885,-1.62149 -0.33675,-1.5989 -0.61586,-2.81592 z"
        sodipodi:nodetypes="cssscsssccccc"
-       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Neutral.png"
+       inkscape:export-filename="E:\Albert Barber\OneDrive\AB Laptop Desktop\Arduino Stuff\Individual Projects\Pixel-Spork-Wiki-Images\Logo\Logo Rainbow.png"
        inkscape:export-xdpi="254"
        inkscape:export-ydpi="254" />
     <text
